@@ -1,0 +1,50 @@
+Archer's turn. 
+Archer 10
+Swordsman 9
+
+Archer's turn. 
+Archer 10
+Swordsman 8
+
+Swordsman's turn. 
+Swordsman 8
+Archer 8
+
+Swordsman's turn. 
+Swordsman 8
+Archer 6
+
+Swordsman's turn. 
+Swordsman 8
+Archer 4
+
+Swordsman's turn. 
+Swordsman 8
+Archer 3
+
+Archer's turn. 
+Archer 3
+Swordsman 7
+
+Archer's turn. 
+Archer 3
+Swordsman 6
+
+Swordsman's turn. 
+Swordsman 6
+Archer 2
+
+Swordsman's turn. 
+Swordsman 6
+Archer 1
+
+Archer's turn. 
+Archer 1
+Swordsman 5
+
+Archer's turn. 
+Archer 1
+Swordsman 4
+
+Swordsman wins! 
+
