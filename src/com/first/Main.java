@@ -15,8 +15,8 @@ public class Main {
 
 
         if (file.length() == 0) {
-            archer = new Person("Archer", 10);
-            swordsman = new Person("Swordsman", 10);
+            archer = new Person("Archer", 1000);
+            swordsman = new Person("Swordsman", 1000);
         } else {
             String newString = "";
             try (FileInputStream fileInputStream = new FileInputStream(file)) {
@@ -31,8 +31,8 @@ public class Main {
 
             if (newString.endsWith(" wins! \n\n")) {
                 string = "";
-                archer = new Person("Archer", 10);
-                swordsman = new Person("Swordsman", 10);
+                archer = new Person("Archer", 1000);
+                swordsman = new Person("Swordsman", 1000);
             } else {
                 Person[] livesFromFile = getLivesFromFile(newString);
                 if (livesFromFile[0].getName().equals("Archer")) {
